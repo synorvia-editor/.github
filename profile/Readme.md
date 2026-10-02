@@ -1,6 +1,6 @@
 # Synorvia Editor
 
-**Synorvia Editor** is a generic data editor for .NET that builds its user interface dynamically from your data model, using .NET Reflection. You don't write any UI code: point the editor at an assembly containing your model classes and it generates the editing interface for you.
+The **Synorvia Editor** is a generic data editor for data specified by .NET data models, that builds its user interface dynamically from a data model, using .NET Reflection. You don't write any UI code: point the editor at an assembly containing your model classes and it generates the editing interface for you.
 
 ![Synorvia Editor screenshot](images/SynorviaEditor.png)
 
