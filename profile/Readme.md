@@ -39,3 +39,9 @@ Data models are expected to consist of properties only and typically contain no 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Snapshot release
+
+A development snapshot release is available for download from the build pipeline (Github login required):
+
+[![Build frontend snapshot](https://github.com/synorvia-editor/MDD4All.DME-dev/actions/workflows/frontend-publish-snapshot.yml/badge.svg)](https://github.com/synorvia-editor/MDD4All.DME-dev/actions/workflows/frontend-publish-snapshot.yml)
